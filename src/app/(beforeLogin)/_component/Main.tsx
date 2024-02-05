@@ -1,11 +1,7 @@
-import styles from "./page.module.css";
 import Image from "next/image";
 import Link from "next/link";
-import zzi from "../../public/zzi.png";
-
-
-
-
+import styles from "@/app/(beforeLogin)/_component/main.module.css";
+import zzi from "../../../../public/zzi.png";
 export default function Main() {
   return (
     <>
